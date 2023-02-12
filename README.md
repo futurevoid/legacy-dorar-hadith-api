@@ -2,6 +2,7 @@
 
 السلام عليكم ورحمة الله وبركاته
 
+صاحب الrepository :https://github.com/AhmedElTabarani/dorar-hadith-api
 منذ مدة حاولت إستعمال الـ `API` الخاص [بالدرر السنية](https://dorar.net/article/389/%D8%AE%D8%AF%D9%85%D8%A9-%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%88%D8%B9%D8%A9-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AB%D9%8A%D8%A9-API)  
 لكنني واجهت بعض الصعوبات منها أن الـ `API` يتعامل مع [JSONP](https://en.wikipedia.org/wiki/JSONP) فقط وأيضًا لن تستطيع التعامل معه بالطرق العادية بسبب الـ [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)
 
